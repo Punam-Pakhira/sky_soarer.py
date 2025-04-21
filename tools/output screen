@@ -1,0 +1,16 @@
+!git clone https://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@github.com/Punam-Pakhira/sky_soarer.py.git
+Cloning into 'sky_soarer.py'...
+remote: Enumerating objects: 49, done.
+remote: Counting objects: 100% (49/49), done.
+remote: Compressing objects: 100% (34/34), done.
+remote: Total 49 (delta 11), reused 40 (delta 8), pack-reused 0 (from 0)
+Receiving objects: 100% (49/49), 52.48 KiB | 2.50 MiB/s, done.
+Resolving deltas: 100% (11/11), done.
+%cd sky_soarer.py/drone_simulator/participants/punam_pakhira
+
+/content/sky_soarer.py/drone_simulator/participants/punam_pakhira
+
+!python3 sky_soarer.py
+
+Simulation complete. Telemetry data saved to 'telemetry_log.json'.
+
